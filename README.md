@@ -16,15 +16,15 @@ Données
 
 Espace des états :
 
- : Aucun vélo disponible, le père travaille sur un vélo.
+> : Aucun vélo disponible, le père travaille sur un vélo.
 
- : Un vélo fonctionne, aucun travail de réparation.
+> : Un vélo fonctionne, aucun travail de réparation.
 
- : Un vélo fonctionne, le père travaille sur l’autre.
+> : Un vélo fonctionne, le père travaille sur l’autre.
 
- : Deux vélos fonctionnent, aucun travail de réparation.
+> : Deux vélos fonctionnent, aucun travail de réparation.
 
- : Deux vélos fonctionnent, le père travaille sur un.
+> : Deux vélos fonctionnent, le père travaille sur un.
 
 Matrice de transition :
 
